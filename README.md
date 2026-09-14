@@ -6,10 +6,10 @@ MCU / RTOS firmware developer focused on STM32F4, ESP32-S3, FreeRTOS, real-time 
 
 | Project | Focus | Repository |
 | --- | --- | --- |
-| ESP32-S3 micro-ROS robot | FreeRTOS task architecture, micro-ROS / ROS 2 communication, latest-command mailbox, IMU pipeline and control dry-run | Private project repository |
-| STM32F407 UART IAP | Bootloader, Flash layout, CRC, A/B image state machine and rollback testing | Repository under curation |
-| ESP32-S3 conference badge | FreeRTOS queues / mutexes, OLED, infrared ID frames, WS2812 and KiCad carrier board | Private project repository |
-| Unattended equipment cabinet | SHT31 data quality, FreeRTOS monitoring, RS485 / Modbus RTU and ESP32 MQTT gateway | Design and source learning stage |
+| ESP32-S3 micro-ROS robot | FreeRTOS task architecture, micro-ROS / ROS 2 communication, latest-command mailbox, IMU pipeline and control dry-run | [Repository](https://github.com/ziming242-ui/esp32s3-freertos-microros-robot) |
+| STM32F407 UART IAP | Bootloader, Flash layout, CRC, A/B image state machine and rollback testing | [Repository](https://github.com/ziming242-ui/stm32f407-uart-iap) |
+| ESP32-S3 conference badge | FreeRTOS queues / mutexes, OLED, infrared ID frames, WS2812 and KiCad carrier board | [Repository](https://github.com/ziming242-ui/esp32-s3-interactive-conference-badge) |
+| Unattended equipment cabinet | SHT31 data quality, FreeRTOS monitoring, RS485 / Modbus RTU and ESP32 MQTT gateway | [Repository](https://github.com/ziming242-ui/unattended-equipment-cabinet) |
 
 ## Engineering interests
 
