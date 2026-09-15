@@ -14,15 +14,11 @@ MCU / RTOS firmware developer focused on STM32F4, ESP32-S3, FreeRTOS, real-time 
 
 `C` · `STM32F407` · `ESP32-S3` · `FreeRTOS` · `STM32 HAL` · `ESP-IDF` · `micro-ROS` · `ROS 2` · `UART` · `I²C` · `RS485/Modbus RTU` · `MQTT/TLS`
 
-## Evidence policy
-
-Project READMEs distinguish documentation/design, vendor source, PC simulation, module tests, development-board tests and whole-vehicle tests. A build or a simulation is not presented as physical hardware proof; unfinished navigation and chassis integration are labelled as such.
-
-## Public learning repositories
+## Additional repositories
 
 - [embedded-foundation](https://github.com/ziming242-ui/embedded-foundation)
 - [stm32-baremetal-lab](https://github.com/ziming242-ui/stm32-baremetal-lab)
 
 ## Currently learning
 
-- [unattended-equipment-cabinet](https://github.com/ziming242-ui/unattended-equipment-cabinet)：SHT31、FreeRTOS、RS485 / Modbus RTU and ESP32 MQTT gateway design；currently `[文档设计]` and source-learning stage.
+- [unattended-equipment-cabinet](https://github.com/ziming242-ui/unattended-equipment-cabinet)：SHT31、FreeRTOS、RS485 / Modbus RTU and ESP32-S3 MQTT gateway design；currently in the design and source implementation stage.
